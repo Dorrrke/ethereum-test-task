@@ -1,0 +1,4 @@
+env: "local"
+grpc:
+  port: 8080
+  timeout: 5s
